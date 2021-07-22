@@ -1,0 +1,9 @@
+html,body{
+  font-family: Verdana, monospace, sans-serif;
+      font-size: 50px;
+      font-weight: bold;
+      background-image: url('resim/d.png') ;
+      background-repeat: no-repeat;
+      text-align: center;
+
+    }

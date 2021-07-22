@@ -1,0 +1,26 @@
+body{
+    animation: anim 30s infinite;
+
+}
+.qwe{
+  font-size: 55px;
+  font-family: sans-serif;
+  width: 90%;
+  text-align: justify;
+  margin: 50px 50px 50px 100px ;
+
+}
+@keyframes anim {
+  50% {
+
+    background:#74A317;
+
+    }
+  40% {
+    background:#064B2B;
+
+  }
+  60% {
+    background-image: url(resim/e.jpg);
+
+  }

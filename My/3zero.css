@@ -1,0 +1,13 @@
+
+body{
+  font-weight: bold;
+  color: black;
+  text-shadow: 3px 2px 1px #fff;
+  position: fixed;
+  bottom: 800px;
+  top:50px;
+  left: 50px;
+  right: 50px;
+
+
+}

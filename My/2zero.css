@@ -1,0 +1,16 @@
+body{
+  font-size: 40px;
+  font-family: sans-serif;
+  text-align: center;
+  padding-bottom: 1000px;
+}
+
+.yazi{
+left: 150px;
+right: 150px;
+  position: absolute;
+  padding-bottom: 1000px;
+}
+.resim{
+  text-align: center;
+}
